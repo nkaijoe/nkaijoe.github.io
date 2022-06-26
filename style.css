@@ -331,6 +331,8 @@ img {
   background-color: #c4b9aa;
 }
 .btn-action {
+  font-size:14px;
+  padding:5px;
   font-weight: bold;
   background: transparent!important;
   border: 1px solid #2e3e52;
