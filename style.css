@@ -333,15 +333,15 @@ img {
 .btn-action {
   font-weight: bold;
   background: transparent!important;
-  border: 1px solid #333;
+  border: 1px solid #2e3e52;
   text-shadow: none;
 }
 .btn-action:hover,
 .btn-action:focus,
 .btn-action:active,
 .btn-action.active {
-  color: #132336;
-  border-color: #132336;
+  color: #2e3e52;
+  border-color: #2e3e52;
 }
 .btn-lg {
   padding: 15px 60px;
